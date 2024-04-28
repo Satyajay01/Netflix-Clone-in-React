@@ -11,3 +11,7 @@ body{
   color: white;
   font-family: 'poppins';
 }
+
+/* body::-webkit-scrollbar{
+  display: none;
+} */
